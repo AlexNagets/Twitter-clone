@@ -1,0 +1,48 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeansapplication.yml
+            application-local.yml
+            application-np.yml
+            application-pr.yml
+            application-rc.yml
+            cred.json.enc
+            logback.xml
+            logback-local.xml
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+
+###mvn###
+.mvnw
+.mvnw.cmd
+
+.uploads
+
+.src/main/resources/cred.json.enc
+
+.*
+!/.gitignore
