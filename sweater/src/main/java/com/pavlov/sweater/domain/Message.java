@@ -1,6 +1,5 @@
 package com.pavlov.sweater.domain;
 
-
 import javax.persistence.*;
 
 @Entity
